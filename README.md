@@ -12,5 +12,5 @@ You are not required to add any CSS or JavaScript. The focus of this project is 
 
 Before submitting your work, make sure you have four separate HTML files: index.html, projects.html, articles.html, and contact.html. Each should have the correct structure, include the navigation bar, have appropriate meta tags, and—on the contact page—include a working form.
 
-#URL 
+# URL 
   - 
