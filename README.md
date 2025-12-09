@@ -11,3 +11,6 @@ Each HTML page must also include SEO-friendly meta tags inside the <head> sectio
 You are not required to add any CSS or JavaScript. The focus of this project is on learning how to create and link multiple HTML pages, organize content using semantic tags, and prepare the website for future styling or functionality.
 
 Before submitting your work, make sure you have four separate HTML files: index.html, projects.html, articles.html, and contact.html. Each should have the correct structure, include the navigation bar, have appropriate meta tags, and—on the contact page—include a working form.
+
+#URL 
+  - 
